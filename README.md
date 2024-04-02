@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-[<img src="https://telegra.ph/file/6c32d6bff1244f0972640.jpg"/>]
+[<img src="https://graph.org/file/2d7e674205bab8329026c.jpg"/>]
 
 > ⭐️ Thanks to everyone for using this op ˹𝗧𝗢𝗫𝗜𝗖-𝗫𝗗˼🫧. That is the greatest pleasure we have !
 
