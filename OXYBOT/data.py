@@ -457,6 +457,43 @@ OXYGEN =  [5059737154, 5911205161, 6194872225]
 
 GROUP = [-1001777776331, -1001859846702]
 
+MRAID = [
+    "Tere naalo challiye haseen koyi NA 😁😁",
+    "Taare chann ambar zameen koyi nA",
+    "Main Jado Tere Mode Utte Sir Rakheya🧐🧐",
+    "Eh Ton Sachi Sama Vi Haseen Koi Na😖😖",
+    "Sohniyan Vi Laggan Giyan Fer Walian😍😍",
+    "Galan Nal Jado Takraiyan Waliyan🥰🥰",
+    "Tare Dekhi Labh Labh Kiven Harde😁😁",
+    "Tu Bala Ch Lakoiyan Jado Ratan Kaliyan😒😒",
+    "Main Sab Kuj Har Tere Utton De’unga😌😌",
+    "Sab Kuj War Tere Utton De’unga😉😉",
+    "Akhir Ch Jan Tainu De’un Apni😎😎",
+    "Chala Tainu Bhavein Pehli War De’unga😚😚",
+    "Han Main Cheti Cheti Lawan😫😫",
+    "Tere Nal Laini an😣😣",
+    "Samay Da Tan Bhora Vi Yakeen Koi Na🥺🥺",
+    "Tere Nalo Jhaliye Haseen Koi Na🥰🥰",
+    "Tare Chann Ambar Zameen Koi Na😘😘",
+    "Tere Nalo Jhaliye Haseen Koi Na😍😍",
+    "Tare Chann Ambar Zameen Koi Na🥰🥰",
+    "Main Jado Tere Mode Utte Sir Rakheya😁😁",
+    "Eh Ton Sachi Sama Vi Haseen Koi Na😒😒",
+    "Tu Yar Mera Tu Hi Ae Sahara AdiyE",
+    "Main Pani Tera Mera Tu Kinara Adiye",
+    "Phul Ban Jai Main Khushboo Bann Ju",
+    "Deevan Bani Mera Teri Lau Ban Ju",
+    "Haye Ujadiyan Thawan Te Banate Bag Ne",
+    "Teriyan Ankhan Ne Kitte Jadu Yad Ne",
+    "Jado Wang Kolon Phadi Vi Ni KassKe",
+    "Totte Sambh Rakhe Tutte Hoye Kach De",
+    "Han Ki Dil Yadan Rakhda Ae, Sambh Sambh Ke",
+    "Hor Dil Sajjna Machine Koi Na",
+    "Tere Nalo Jhaliye Haseen Koi Na",
+    "Tare Chann Ambar Zameen Koi Na",
+    "Tere Nalo Jhaliye Haseen Koi Na",
+    "Tare Chann Ambar Z
+
 LOVERAID = [
 "ᴛᴇʀᴇ ɴᴀᴀʟᴏ ᴄʜᴀʟʟɪʏᴇ ʜᴀꜱᴇᴇɴ ᴋᴏʏɪ ɴᴀ 😁😁",
 "ᴛᴀᴀʀᴇ ᴄʜᴀɴɴ ᴀᴍʙᴀʀ ᴢᴀᴍᴇᴇɴ ᴋᴏʏɪ ɴᴀ",
