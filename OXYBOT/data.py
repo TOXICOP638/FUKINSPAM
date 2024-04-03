@@ -493,6 +493,7 @@ MRAID = [
     "Tare Chann Ambar Zameen Koi Na",
     "Tere Nalo Jhaliye Haseen Koi Na",
     "Tare Chann Ambar Zameen"
+]
 
 LOVERAID = [
 "ᴛᴇʀᴇ ɴᴀᴀʟᴏ ᴄʜᴀʟʟɪʏᴇ ʜᴀꜱᴇᴇɴ ᴋᴏʏɪ ɴᴀ 😁😁",
